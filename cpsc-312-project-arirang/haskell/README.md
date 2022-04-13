@@ -7,9 +7,9 @@ With this app, instructors can create time slots (date and time) for CPSC 312 of
 
 Our team is:
 
-+ Chunga Lee (18848614)
-+ Yeongu Choe (77672566)
-+ Ji Young Kim (17668112)
++ Chunga Lee
++ Yeongu Choe
++ Ji Young Kim
 
 We call ourselves: Arirang
 
