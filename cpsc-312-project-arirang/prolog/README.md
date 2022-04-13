@@ -5,9 +5,9 @@ This app allows students to easily look up the list of courses that need to be c
 Students can also enter the list of the courses they have taken along with the course number (eg. CPSC 312) they are planning to take in order to find out whether their lists suffice the prerequisites of the course they’re looking up.
 
 ## Team Members of Arirang
-+ Chunga Lee (18848614)
-+ Yeongu Choe (77672566)
-+ Ji Young Kim (17668112)
++ Chunga Lee
++ Yeongu Choe
++ Ji Young Kim
 
 -------------------------------------------------
 
